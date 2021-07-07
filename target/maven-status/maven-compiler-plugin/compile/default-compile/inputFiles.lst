@@ -1,0 +1,10 @@
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/service/MutantServiceImpl.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/MercadolibreXmenApplication.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/service/MutantService.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/service/PersistenceMutantService.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/respository/VerifiedMutantRepository.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/service/PersistenceMutantServiceImpl.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/dto/StatisticsDTO.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/model/VerifiedMutant.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/dto/DNARequestDTO.java
+/home/juan/Prueba/xmen-mutant/src/main/java/co/com/mercadolibre/controller/MutantController.java
